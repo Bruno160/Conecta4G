@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": " ATUALIZAÇÃO NO CHECKUSER ",
   "UrlUpdate": "https://github.com/Bruno160/Conecta4G/blob/main/Teste",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=19730",
@@ -76,7 +76,7 @@
      },
      { 
       
-      "Name": "🔥VIVO APN IPV6 23/04/2024🔥",
+      "Name": "🔥VIVO APN IPV6 25/04/2024🔥",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf][crlf][crlf]",
       "SNI": "",
