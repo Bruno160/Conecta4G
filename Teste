@@ -1,1 +1,115 @@
-teste
+{
+  "Version": "1",
+  "ReleaseNotes": " ATUALIZAÇÃO NO CHECKUSER ",
+  "UrlUpdate": "https://paste.conect4g.com.br/paste.php?raw&id=71",
+  "Sms": "https://paste.anasor.com/paste.php?raw&id=19730",
+ "logoonline": "", 
+  "fundoonline":  
+   "https://i.ibb.co/f9mg5kD/c92d6c37-c2ba-48a2-8659-ab94983ea86d.jpg", 
+  "fundoDoLogOnline": false,
+  "EmailFeedback": "https://t.me/Brunobank",
+  "UrlContato": "https://api.whatsapp.com/send?1=pt_BR&phone=5521967326184",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "",
+  "Udp": [
+    {
+      "Porta": "7300"
+    
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "SERVIDOR TIM",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "apptest2.c6bank",
+      "CheckUser": "http://sucu.megah.shop/api_user?url=http://132.226.252.6:2095/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+     },
+     {
+      "Name": "💥 ORACLE CLOUD 💥",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "h.brunonk.online",
+      "CheckUser": "http://sucu.megah.shop/api_user?url=http://132.226.252.6:2095/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "🤑TIM EXPIRADO IP 100.96 + 17/06🤑",
+      "FLAG": "tim",
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "h.brunonk.online",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🤑TIM EXPIRADO BUSCAR IP 73
+,77,88,75,81,78,74,76,87 02/07🤑",
+      "FLAG": "tim",
+      "Payload": "ACL /index.html HTTP/1.1[crlf]Host: br.brunomk.online[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "h.brunonk.online",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {  
+      "Name": "🔥TIM NA VALIDADE 16/02/2024🔥",
+      "FLAG": "tim",
+      "Payload": "[delay_split]ACL wss://h.brunonk.online HTTP/1.1[lf]Host: [rotate=apptest2.c6bank;maxcdn.bootstrapcdn.com;maxcdn.bootstrapcdn.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.98.70",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+     { 
+      
+      "Name": "🔥VIVO APN IPV6 23/04/2024🔥",
+      "FLAG": "vivo.png",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "132.226.252.6",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+    {  
+      "Name": "🔥VIVO SECURITY 22/03🔥",
+      "FLAG": "vivo.png",
+      "Payload": "[delay_split][lf]ACL / HTTP 1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "h.brunonk.online",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+    {  
+      "Name": "🔥TIM VALIDO 27/02/2024🔥",
+      "FLAG": "tim",
+      "Payload": "PATCH / HTTP/1.1[crlf][split]Host: [rotate=front;front][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]#HEAD / HTTP/1.1
+Host: [rotate=front;front]
+Connection: Upgrade
+Upgrade: websocket\n\n#GET / HTTP/1.1
+Host: [rotate=d3m3jawcs7uss8.cloudfront.ne;front]
+Connection: Upgrade
+Upgrade: websocket\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.timlive.tim.com.br#65.9.86.69#65.9.66.10#65.9.86.77#65.9.86.111#65.9.86.64#143.204.98.69#143.204.68.84#143.204.98.33#143.204.215.28#143.204.215.124#143.204.215.54#143.204.176.71#143.204.215.110#143.204.215.127#143.204.98.11#143.204.68.76#143.204.98.104#143.204.215.91#143.204.191.47#143.204.191.102#143.204.215.30#143.204.98.97#143.204.215.11#143.204.176.12913.227.126.39#13.227.126.40#13.227.126.91#99.84.31.114#99.84.31.97#99.84.31.8#99.84.31.80#dex.descomplica.com.br#io.descomplica.com.br#3.163.10.29#3.163.10.81#3.163.10.19#3.163.10.100#conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58#18.67.129.17#frontend-tim-recarga-client.m4u.com.br#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#65.9.95.105#18.66.147.27#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#13.226.22.87#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#13.226.22.87#18.67.145.94#108.139.134.18#108.139.182.69#108.139.95.47#108.139.95.121#18.67.145.84#18.67.145.53#18.67.145.97#65.8.214.57#65.8.214.124#65.8.214.122#65.8.214.56#108.139.95.126#108.139.182.15#108.139.182.47#108.139.182.47#18.161.200.50#18.161.200.81#18.161.200.41#18.161.200.80#18.161.200.96#18.67.145.109",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
